@@ -1,0 +1,19 @@
+{
+  "name": "typo-scripts",
+  "version": "1.0.0",
+  "description": "scripts for typotionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SongMarco/typo-scripts.git"
+  },
+  "author": "marco-song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SongMarco/typo-scripts/issues"
+  },
+  "homepage": "https://github.com/SongMarco/typo-scripts#readme"
+}
